@@ -1,0 +1,218 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Jasper Wintheiser",
+      "email": "wintheiser.jasper@gmail.com",
+      "cohort": 69
+    },
+    {
+      "id": 2,
+      "fullName": "Nikko Herzog",
+      "email": "herzog.nikko@gmail.com",
+      "cohort": 68
+    },
+    {
+      "id": 3,
+      "fullName": "Aglae Lind",
+      "email": "aglael123@dummyemail.org",
+      "cohort": 70
+    },
+    {
+      "id": 4,
+      "fullName": "Elmore Gutkowski",
+      "email": "gutkowski.elmore@gmail.com",
+      "cohort": 69
+    },
+    {
+      "id": 5,
+      "fullName": "Mckenzie Sipes",
+      "email": "mckenzie.sipes123@example.com",
+      "cohort": 67
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Why you should not commit on main",
+      "topicId": 2,
+
+      "body": "Sed molestias ducimus omnis dolorem eaque minus doloribus animi consequatur.  Enim qui incidunt facilis in iste perferendis aut est. Molestias aut incidunt eos qui quasi et. Voluptatem voluptatem omnis sed.  Laboriosam quis aut quisquam praesentium molestiae nemo id rerum. Accusantium et non.",
+      "userId": 1,
+      "date": "Sat May 20 2023 05:32:25 GMT-0400 (Eastern Daylight Time)"
+    },
+    {
+      "id": 2,
+      "title": "What is Algorithmic Thinking?",
+      "topicId": 4,
+
+      "body": "Quibusdam sit tempore error similique quas eos. Velit magni accusantium quam distinctio qui autem harum eum totam. Et esse cupiditate sit et culpa ut expedita.",
+      "userId": 2,
+      "date": "Sun Oct 06 2024 10:16:04 GMT-0400 (Eastern Daylight Time)"
+    },
+    {
+      "id": 3,
+      "title": "Why do we build Wireframes?",
+      "topicId": 10,
+
+      "body": "Quo fugit ipsum doloribus consequatur repellat. Voluptas possimus labore corrupti numquam ex sed. Animi fugiat ut maiores quia quo quibusdam illum. Quam optio esse sed corrupti assumenda.",
+      "userId": 3,
+      "date": "Sat May 20 2023 05:32:25 GMT-0400 (Eastern Daylight Time)"
+    },
+    {
+      "id": 4,
+      "title": "Whats the purpose of an ERD",
+      "topicId": 9,
+
+      "body": "Sed molestias ducimus omnis dolorem eaque minus doloribus animi consequatur. Enim qui incidunt facilis in iste perferendis aut est. Molestias aut incidunt eos qui quasi et. Voluptatem voluptatem omnis sed. Laboriosam quis aut quisquam praesentium molestiae nemo id rerum. Accusantium et non.",
+      "userId": 4,
+      "date": "Wed Aug 30 2023 04:51:20 GMT-0400 (Eastern Daylight Time)"
+    },
+    {
+      "id": 5,
+      "title": "The Basics",
+      "topicId": 1,
+      "body": "Quisquam et et est exercitationem velit minus et tempore nisi. Consequatur vitae ut. Voluptas nostrum nam aliquam. Recusandae sed id voluptas consequatur voluptas optio harum facere aut.",
+      "userId": 1,
+      "date": "Sun Feb 25 2024 06:50:34 GMT-0500 (Eastern Standard Time)"
+    },
+    {
+      "id": 6,
+      "title": "What is Machine Learning Concepts?",
+      "topicId": 5,
+      "body": "Quisquam et et est exercitationem velit minus et tempore nisi. Consequatur vitae ut. Voluptas nostrum nam aliquam. Recusandae sed id voluptas consequatur voluptas optio harum facere aut.",
+      "userId": 1,
+      "date": "Sun Feb 25 2024 06:50:34 GMT-0500 (Eastern Standard Time)"
+    }
+  ],
+  "topics": [
+    { "id": 1, "name": "JavaScript Basics" },
+    { "id": 2, "name": "Commiting " },
+    { "id": 3, "name": "React Fundamentals" },
+    { "id": 4, "name": " Algorithmic Thinking" },
+    { "id": 5, "name": "Machine Learning Concepts" },
+    { "id": 6, "name": "Java Design Patterns" },
+    { "id": 7, "name": "Angular Frameworks" },
+    { "id": 8, "name": "Responsive Web Design with CSS" },
+    { "id": 9, "name": "ERD" },
+    { "id": 10, "name": "Wireframes" }
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "userId": 3,
+      "postId": 2,
+      "isLiked": true,
+      "date": "2024-02-28T08:30:00Z"
+    },
+
+    {
+      "id": 3,
+      "userId": 5,
+      "postId": 1,
+      "isLiked": true,
+      "date": "2024-02-26T20:10:00Z"
+    },
+
+    {
+      "id": 5,
+      "userId": 4,
+      "postId": 3,
+      "isLiked": true,
+      "date": "2024-02-24T18:55:00Z"
+    },
+    {
+      "id": 6,
+      "userId": 3,
+      "postId": 1,
+      "isLiked": true,
+      "date": "2024-02-23T09:30:00Z"
+    },
+
+    {
+      "id": 8,
+      "userId": 5,
+      "postId": 4,
+      "isLiked": true,
+      "date": "2024-02-21T11:40:00Z"
+    },
+
+    {
+      "id": 10,
+      "userId": 4,
+      "postId": 5,
+      "isLiked": true,
+      "date": "2024-02-19T13:25:00Z"
+    },
+    {
+      "id": 11,
+      "userId": 3,
+      "postId": 2,
+      "isLiked": true,
+      "date": "2024-02-18T07:45:00Z"
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "postId": 4,
+      "isLiked": true,
+      "date": "2024-02-17T14:20:00Z"
+    },
+    {
+      "id": 13,
+      "userId": 5,
+      "postId": 1,
+      "isLiked": true,
+      "date": "2024-02-16T19:35:00Z"
+    },
+    {
+      "id": 14,
+      "userId": 2,
+      "postId": 5,
+      "isLiked": true,
+      "date": "2024-02-15T11:10:00Z"
+    },
+    {
+      "id": 15,
+      "userId": 4,
+      "postId": 3,
+      "isLiked": true,
+      "date": "2024-02-14T17:55:00Z"
+    },
+    {
+      "id": 16,
+      "userId": 3,
+      "postId": 1,
+      "isLiked": true,
+      "date": "2024-02-13T08:20:00Z"
+    },
+    {
+      "id": 17,
+      "userId": 1,
+      "postId": 2,
+      "isLiked": true,
+      "date": "2024-02-12T13:45:00Z"
+    },
+    {
+      "id": 18,
+      "userId": 5,
+      "postId": 4,
+      "isLiked": true,
+      "date": "2024-02-11T10:00:00Z"
+    },
+    {
+      "id": 19,
+      "userId": 2,
+      "postId": 3,
+      "isLiked": true,
+      "date": "2024-02-10T15:25:00Z"
+    },
+    {
+      "id": 20,
+      "userId": 4,
+      "postId": 6,
+      "isLiked": true,
+      "date": "2024-02-09T12:45:00Z"
+    }
+  ]
+}
